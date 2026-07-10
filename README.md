@@ -24,4 +24,4 @@ Phase: Conceptual Design & Architecture.
 
 Focus: Prototyping user flows and defining core functional requirements.
 
-For a deeper look into the conceptual framework and the proposed roadmap of the application, please refer to the attached document: 
+For a deeper look into the conceptual framework and the proposed roadmap of the application, please refer to the attached document: Rebondly_Pitch Deck.pdf
